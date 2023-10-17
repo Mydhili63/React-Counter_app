@@ -1,0 +1,25 @@
+
+.sideheading{
+    font-weight: bold;
+}
+
+body{
+    display: block;
+    text-align: start;
+    position: relative;
+    left: 10px;
+}
+
+.features{
+    text-align: start;
+    position: relative;
+    left: 10px;
+
+}
+li{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 10px;
+    text-align: start;
+}
